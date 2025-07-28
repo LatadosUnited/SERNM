@@ -1,0 +1,5 @@
+{
+  "latest_version": "3.1",
+  "download_url": "https://github.com/seu-usuario/seu-repositorio/releases/download/v3.1/SistemaUnificado.exe",
+  "release_notes": "- Correção de bug no módulo de manifesto.\n- Melhoria de performance na busca de notas."
+}
