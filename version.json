@@ -1,5 +1,5 @@
 {
   "latest_version": "3.2",
-  "download_url": "https://github.com/LatadosUnited/SERNM/releases/download/v3.2/SERNU.exe",
+  "download_url": "https://github.com/LatadosUnited/SERNM/releases/download/v3.3/SERNU.exe",
   "release_notes": "- Correção de bug no módulo de manifesto.\n- Melhoria de performance na busca de notas."
 }
